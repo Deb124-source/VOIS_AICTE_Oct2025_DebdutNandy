@@ -7,7 +7,7 @@ This project analyzes an **Airbnb Hotel Booking dataset** to uncover insights ab
 ---
 
 ## 📂 Dataset
-- **Dataset Source**: [Airbnb Hotel Booking Dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) *(or replace with your dataset link)*  
+- **Dataset Source**: [Airbnb Hotel Booking Dataset](https://voisfortech.com/storage/files/1730285881-Airbnb_Open_Data.xlsx)
 - Contains information on hotel bookings, customer demographics, stay details, and cancellations.  
 
 ---
