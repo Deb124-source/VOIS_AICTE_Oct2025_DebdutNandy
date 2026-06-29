@@ -1,4 +1,4 @@
-# 🏨 Airbnb Hotel Booking Analysis – Conversational Data Analysis
+# 🏨 Airbnb Hotel Booking Analysis – Conversational Data Analysis + Power BI Dashboard
 
 ## 📌 Problem Statement
 Understanding customer behavior and booking trends is crucial for the hospitality industry.  
